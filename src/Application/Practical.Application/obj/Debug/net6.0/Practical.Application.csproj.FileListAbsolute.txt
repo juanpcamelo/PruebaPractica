@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\bin\Debug\net6.0\Practical.Application.deps.json
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\bin\Debug\net6.0\Practical.Application.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\bin\Debug\net6.0\Practical.Application.pdb
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\Practical.Application.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\Practical.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\Practical.Application.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\Practical.Application.AssemblyInfo.cs
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\Practical.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\Practical.Application.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\refint\Practical.Application.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\Practical.Application.pdb
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\ref\Practical.Application.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\bin\Debug\net6.0\PracticalApplication.Domain.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\bin\Debug\net6.0\PracticalApplication.Domain.pdb
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\obj\Debug\net6.0\Practical.Application.csproj.CopyComplete
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\bin\Debug\net6.0\PracticalApplication.Infraestructure.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Application\Practical.Application\bin\Debug\net6.0\PracticalApplication.Infraestructure.pdb

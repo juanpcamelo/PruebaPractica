@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\bin\Debug\net6.0\PracticalApplication.Domain.deps.json
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\bin\Debug\net6.0\PracticalApplication.Domain.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\bin\Debug\net6.0\PracticalApplication.Domain.pdb
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\PracticalApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\PracticalApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\PracticalApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\PracticalApplication.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\PracticalApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\PracticalApplication.Domain.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\refint\PracticalApplication.Domain.dll
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\PracticalApplication.Domain.pdb
+C:\Users\USER\source\repos\PracticalApplication\src\Domain\PracticalApplication.Domain\obj\Debug\net6.0\ref\PracticalApplication.Domain.dll
