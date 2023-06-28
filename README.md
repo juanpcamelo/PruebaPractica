@@ -9,4 +9,4 @@ tenemos un susario y contraseña
   user = admin
   password: 123Admin
 
-el servicio de login nos regresa un token que debemos utilizar desde posmat mediante una autenticacion 
+el servicio de login nos regresa un token que debemos utilizar desde posmat mediante una autenticacion Bearer Token
